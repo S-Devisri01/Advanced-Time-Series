@@ -33,6 +33,7 @@ Statsmodels (SARIMA)
 📂 Project Structure
 Advanced_TS_Project_Forecasting/
 │
+
 ├── data_generator.py  # Synthetic time series generation
 
 ├── model.py                 # LSTM + custom Attention model
@@ -74,4 +75,5 @@ Compared to traditional models, it provides better forecasting accuracy and clea
 
 🧑‍💻 Author
 Devisri Sathasivam
+
 
