@@ -33,14 +33,22 @@ Statsmodels (SARIMA)
 📂 Project Structure
 Advanced_TS_Project_Forecasting/
 │
-├── data_generator.py        # Synthetic time series generation
+├── data_generator.py  # Synthetic time series generation
+
 ├── model.py                 # LSTM + custom Attention model
+
 ├── train.py                 # Model training
+
 ├── evaluate.py              # Performance evaluation
+
 ├── baselines.py             # SARIMA & MLP models
+
 ├── attention_visualize.py   # Attention heatmap visualization
+
 ├── report.txt               # Project summary
+
 ├── requirements.txt         # Required libraries
+
 └── README.md                # Project documentation
 
 ▶️ How the Project Works (Step-by-Step)
@@ -66,3 +74,4 @@ Compared to traditional models, it provides better forecasting accuracy and clea
 
 🧑‍💻 Author
 Devisri Sathasivam
+
