@@ -52,6 +52,13 @@ Advanced_TS_Project_Forecasting/
 
 └── README.md                # Project documentation
 
+▶️ Installation
+Install required libraries using
+pip install -r requirements.txt
+
+▶️ Run
+python main.py
+
 ▶️ How the Project Works (Step-by-Step)
 Generate synthetic time series data
 Train LSTM + Attention deep learning model
@@ -75,5 +82,6 @@ Compared to traditional models, it provides better forecasting accuracy and clea
 
 🧑‍💻 Author
 Devisri Sathasivam
+
 
 
